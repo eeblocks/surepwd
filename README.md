@@ -1,6 +1,8 @@
 # SurePWD v1.0
 Open-Source script to generate strong passwords
 
+## Author: @esiquiel
+
 ## Usage:
 
 ```
