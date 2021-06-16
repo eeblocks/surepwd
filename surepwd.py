@@ -72,7 +72,7 @@ if __name__ == '__main__':
             print(Colors.WHITE + '\nhelp > Show help commands')
             print('clear > Clear the terminal')
             print('generate > Generate a password')
-            print('generate -a > Generate a password and save\n' + color)
+            print('generate -s > Generate a password and save\n' + color)
         
         # Clear the terminal
         elif cmd == 'clear' or cmd =='cls':
